@@ -3,8 +3,7 @@ import store from "@/store/index";
 
 import VueWebSocket from "./vue-websocket";
 
-// const socketUrl = "ws://10.10.37.36:8081/webSocket";
-const socketUrl = "ws://61.132.103.232:8081/webSocket";
+const socketUrl = "ws://xxxx:xxxx/webSocket";
 const pingMessage = {
   cmd: 1000
 };
